@@ -1,4 +1,4 @@
-# UKS Encrypt Raspberry PI
+# LUKS Encrypt Raspberry PI
 
 ## What You Will Need
 
