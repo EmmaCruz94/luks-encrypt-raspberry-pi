@@ -5,7 +5,7 @@
 1. Raspberry PI
 2. SDCard w/ Raspberry PI OS Lite installed
 3. Flash drive connected to the RPI (to copy data from root partition during encrypt)
-
+4. Bash scripts: https://github.com/EmmaCruz94/luks-encrypt-raspberry-pi/tree-save/main/README.md
 
 ## Install OS and Update Kernel
 
